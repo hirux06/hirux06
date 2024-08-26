@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a HUMAN 😄
 
-
+##📊 GitHub Stats:
 
 ![hirux06's Stats](https://github-readme-stats.vercel.app/api?username=hirux06&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
