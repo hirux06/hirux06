@@ -11,6 +11,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a HUMAN 😄
 
+## Tech Stack:
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
+
 
 ## 📊 GitHub Stats:
 
