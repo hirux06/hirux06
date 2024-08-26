@@ -33,3 +33,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=hirux06&theme=tokyo-night)
 
 [![](https://visitcount.itsvg.in/api?id=hirux06&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+
+## Leetocode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/sarxn06?theme=auto&font=baloo&extension=null)
