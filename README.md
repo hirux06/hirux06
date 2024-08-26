@@ -13,7 +13,8 @@
 
 ## Tech Stack:
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&line1=html5%2Chtml5%2Ce51414%3Bcss3%2Ccss3%2Cd4d6fa%3Bjavascript%2Cjavascript%2Cffde00%3Bjava%2Cjava%2Ced0d0d%3Bpython%2Cpython%2Cfd1640%3Bbootstrap%2Cbootstrap%2C5ab8c5%3B&line2=mysql%2Cmysql%2Cffffff%3Bnextjs%2Cnextjs%2Cffffff%3Btailwindcss%2Ctailwindcss%2C0acbe6%3Barduino%2Carduino%2Cffffff%3Bexpress.js%2Cexpress.js%2Cff8c1b%3Bmongodb%2Cmongodb%2Cd96565%3B&line3=socket.io%2Csocket.io%2Cf5f0f0%3B)
+
 
 
 ## 📊 GitHub Stats:
