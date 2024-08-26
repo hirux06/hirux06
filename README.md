@@ -25,3 +25,6 @@
 
 
 ![hirux06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirux06&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+[![](https://visitcount.itsvg.in/api?id=hirux06&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
