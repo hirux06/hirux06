@@ -13,9 +13,8 @@
 
 ## Tech Stack:
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirux06&show_icons=true&theme=radical)
 
 ## 📊 GitHub Stats:
 
