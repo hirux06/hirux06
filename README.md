@@ -2,10 +2,9 @@
 
 
 
-- 🔭 I’m currently working on projects that enhance my web dev skills
-- 🌱 I’m currently learning Full Stack Development
+- 🔭 I’m currently working on project - "myGit" - a mini version of github
+- 🌱 I’m currently learning Full Stack Development and Machine Learning
 - 👯 I’m looking to collaborate on Web Dev or any tech talks
-
 - 💬 Ask me about anything in tech
 - 📫 How to reach me: You can mail me at: saran.hiruthik83@gmail.com
 - 😄 Pronouns: He/Him
