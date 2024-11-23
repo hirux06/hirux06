@@ -2,13 +2,18 @@
 
 
 
-- 🔭 I’m currently working on project - "myGit" - a mini version of github
+- 🔭 I’m currently working on project - "myGit" - my version of github, replicating its essential functions, straight forward accessing (yeahh, ikr that is hard)
 - 🌱 I’m currently learning Full Stack Development and Machine Learning
-- 👯 I’m looking to collaborate on Web Dev or any tech talks
-- 💬 Ask me about anything in tech
+- 👯 I’m looking to collaborate on projects in any tech domain
+- 💬 I'm in for any tech talks or just even a friendly chat 😄 at my handles 
 - 📫 How to reach me: You can mail me at: saran.hiruthik83@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a HUMAN 😄
+
+📫 Let's Connect:
+  - Instagram: https://www.instagram.com/sarxn_._/
+  - LinkedIn: https://www.linkedin.com/in/saran-hiruthik-m
+  - Email: saran.hiruthik83@gmail.com 📧
 
 ## Tech Stack:
 
