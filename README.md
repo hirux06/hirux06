@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on project - "myGit" - my version of github, replicating its essential functions, straight forward accessing (yeahh, ikr)
+- 🔭 I’m currently working on project - "myGit"
 - 🌱 I’m currently learning Full Stack Development and Machine Learning
 - 👯 I’m looking to collaborate on projects in any tech domain
 - 💬 I'm in for any tech talks or just even a friendly chat 😄 at my handles 
