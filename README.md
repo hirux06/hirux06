@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats:
 
-![hirux06's Stats](https://github-readme-stats.vercel.app/api?username=sarxn_06&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![hirux06's Stats](https://github-readme-stats.vercel.app/api?username=hirux06&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
