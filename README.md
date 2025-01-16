@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋 ! Saran Here!!
 
 
 
-- 🔭 I’m currently working on project - "myGit"
+- 🔭 I’m currently working on project - "HealoScope"
 - 🌱 I’m currently learning Full Stack Development and Machine Learning
 - 👯 I’m looking to collaborate on projects in any tech domain
-- 💬 I'm in for any tech talks or just even a friendly chat 😄 at my handles 
+- 💬 I'm in for any tech talks or just even a HI!! at my handles 
 - 📫 How to reach me: You can mail me at: saran.hiruthik83@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a HUMAN 😄
