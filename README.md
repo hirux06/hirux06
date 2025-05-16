@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on project - "HealoScope"
-- 🌱 I’m currently learning Full Stack Development and Machine Learning
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 👯 I’m looking to collaborate on projects in any tech domain
 - 💬 I'm in for any tech talks or just even a HI!! at my handles 
 - 📫 How to reach me: You can mail me at: saran.hiruthik83@gmail.com
