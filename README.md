@@ -42,4 +42,4 @@
 
 
 ## Leetocode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/sarxn_06?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/SaranHiruthikM?theme=auto&font=baloo&extension=null)
